@@ -1,7 +1,0 @@
-{
-  "workspace_url": "https://<databricks-instance>.azuredatabricks.net",
-  "cluster_id": "your-cluster-id",
-  "access_token": "your-access-token",
-  "raw_data_path": "dbfs:/raw_data/",
-  "transformed_data_path": "dbfs:/transformed_data/"
-}
