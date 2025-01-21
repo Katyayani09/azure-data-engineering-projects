@@ -1,7 +1,7 @@
-# Paris Olympics 2024 Data Analysis
+# Leveraging Data Engineering and Science for Olympic Game Trends and Global Sports Analytics
 
 ## Project Description
-The "Paris Olympics 2024 Data Analysis" project is a comprehensive data pipeline designed to ingest, transform, store, and visualize data related to the upcoming Olympic Games in Paris. This project leverages cutting-edge cloud technologies and tools to enable real-time analytics, advanced data transformation, and interactive dashboards for impactful decision-making.
+This project is a comprehensive data pipeline designed to ingest, transform, store, and visualize data related to the Olympic Games trends over the past years. This project leverages cutting-edge cloud technologies and tools to enable real-time analytics, advanced data transformation, and interactive dashboards for impactful decision-making.
 
 ---
 
@@ -12,7 +12,7 @@ The "Paris Olympics 2024 Data Analysis" project is a comprehensive data pipeline
 
 ## Workflow Steps
 ### **1. Sources**
-- 📡 **Apache Kafka**: Streams real-time event data related to the Paris Olympics.
+- 📡 **Apache Kafka**: Streams real-time event data related to the Olympic games.
 - 📂 **GitHub Repository**: Stores raw datasets and Python scripts for initial ETL processes.
 
 ### **2. Ingestion**
@@ -37,7 +37,7 @@ The "Paris Olympics 2024 Data Analysis" project is a comprehensive data pipeline
 
 ### **7. Visualization**
 - 📈 **Power BI**:
-  - Interactive dashboards for key stakeholders to explore insights related to the Paris Olympics.
+  - Interactive dashboards for key stakeholders to explore insights related to the Game Trends and Sports popularity
 
 ---
 
@@ -83,7 +83,7 @@ The "Paris Olympics 2024 Data Analysis" project is a comprehensive data pipeline
 ---
 
 ## Usage
-- 🔍 **Real-time Data Analysis**: Analyze live event data streams from the Paris Olympics.
+- 🔍 **Real-time Data Analysis**: Analyze live event data streams of Sport Events Data
 - 📊 **Data Visualization**: Explore key metrics such as medal tallies, athlete performance, and event scheduling through Power BI dashboards.
 - 📂 **Ad-hoc Queries**: Run complex analytics queries using Synapse Analytics.
 
