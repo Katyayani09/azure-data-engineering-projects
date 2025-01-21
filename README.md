@@ -1,5 +1,5 @@
-# azure-data-science-projects
-**Azure Data Science Projects**  
+# azure-data-engineering-projects
+**Azure Data Engineering Projects**  
 
 Over the past few years, I’ve had the opportunity to work extensively with Microsoft Azure, leveraging its powerful suite of tools to build end-to-end data science projects. These projects have addressed real-world challenges across diverse domains, showcasing the versatility and scalability of Azure’s offerings.  
 
