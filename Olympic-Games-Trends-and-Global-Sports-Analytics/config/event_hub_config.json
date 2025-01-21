@@ -1,0 +1,5 @@
+{
+  "event_hub_name": "olympics-data",
+  "connection_string": "YourEventHubConnectionString",
+  "consumer_group": "$Default"
+}
